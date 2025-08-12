@@ -1,0 +1,19 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+.Rapp.history
+
+# Data
+data/*
+!data/README_download.md
+
+# OS/Editors
+.DS_Store
+Thumbs.db
+
+# Notebook outputs
+*.utf8.md
+*.knit.md
+*.nb.html
